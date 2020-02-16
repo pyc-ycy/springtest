@@ -12,10 +12,12 @@
     <artifactId>springtest</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springtest</name>
+    <packaging>jar</packaging>
     <description>A project of spring test</description>
 
     <properties>
         <java.version>1.8</java.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <dependencies>
